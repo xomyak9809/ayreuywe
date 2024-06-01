@@ -1,0 +1,6 @@
+body {background-color: rgb(172, 20, 40);
+    font-family: sans-serif;
+}
+h1 {border: 5px solid red; box-shadow: 5px 5px 5px 0px yellow;background-color: red;}
+a{background-color: yellow;color: red;box-shadow: 5px 5px 5px 0px red;}
+ul{border: 5px solid yellow; color: yellow;}
